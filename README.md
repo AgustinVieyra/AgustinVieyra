@@ -12,5 +12,5 @@ Hi, I’m @AgustinVieyra, one of a kind Mathematician who loves being creative a
 <!---
 AgustinVieyra/AgustinVieyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-💞️ I’m looking for work, but also would like to collaborate on data analysis projects for enterprises, and any type of eco-ethical project.
+💞️ I’m looking for work, but also would like to collaborate on data analysis projects for companies, and any type of eco-ethical project.
 --->
