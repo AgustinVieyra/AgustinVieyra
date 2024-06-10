@@ -4,7 +4,7 @@ Hi, I’m @AgustinVieyra, one of a kind Mathematician who loves being creative a
 
 
 - 🌱 I’m currently learning about implementation of Machine Learning for MLOps.
-- 📓 I'm proficient in Python, SQL (using dbt), Matlab and Tableau. Also, I'm a big fan of doing small statistics projects in Desmos, and worked with R and C aswell.
+- 📓 I'm proficient in  bash scripting, Python, dbt, Matlab (hehe) and Tableau. Also, I'm a big fan of doing small statistics projects and mathematical modeling in Desmos, and worked with C and R aswell.
 - 👀 My interests are very varied. I am a very weel rounded person who loves taking deep dives in many types of topics and activities. Writing and drawing are definitely one of my passions, love creating. Solving an interesting math problems (specially doing math modeling), taking a walk talking with friends and reading are also high in the list. *I love reading EVERYTHING.* I love reading all types of novels, but also really enjoy reading academical and non-fiction books on psychology, philosophy, entrepreneurship, mathematics, history, ethology, economy, art, chemistry and design. I definitely love to learn, apply my knowledge to help others.
 - 📫 The best way to cold reach me would be by e-mail: pablonavavieyra@hotmail.com
 - 😄 Pronouns: He/Him/His/They
